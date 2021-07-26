@@ -1,6 +1,6 @@
 # MAT
 Monte-Carlo Tree Search adversarial training methodology
-# HTSRobust
+# MAT
 
 This repo contains the MAT toolkit for robust models against different attacks. 
 
