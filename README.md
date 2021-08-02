@@ -107,4 +107,4 @@ Adversarial images in .npy
 Yi-Ling Liu
 
 ## Disclaimer
-The code here contained is provided to assist with reviewing the IJCAI paper number 1137. No permission is given or implied for copying, or using the attached software for other purposes.
+The code here contained is provided to assist with reviewing some paper. No permission is given or implied for copying, or using the attached software for other purposes.
